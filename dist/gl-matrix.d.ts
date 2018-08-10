@@ -3119,46 +3119,46 @@ declare module '@kitten-team/gl-matrix' {
 }
 
 declare module 'gl-matrix/src/gl-matrix/common' {
-    import { glMatrix } from 'gl-matrix';
+    import { glMatrix } from '@kitten-team/gl-matrix';
     export = glMatrix;
 }
 
 declare module 'gl-matrix/src/gl-matrix/vec2' {
-    import { vec2 } from 'gl-matrix';
+    import { vec2 } from '@kitten-team/gl-matrix';
     export = vec2;
 }
 
 declare module 'gl-matrix/src/gl-matrix/vec3' {
-    import { vec3 } from 'gl-matrix';
+    import { vec3 } from '@kitten-team/gl-matrix';
     export = vec3;
 }
 
 declare module 'gl-matrix/src/gl-matrix/vec4' {
-    import { vec4 } from 'gl-matrix';
+    import { vec4 } from '@kitten-team/gl-matrix';
     export = vec4;
 }
 
 declare module 'gl-matrix/src/gl-matrix/mat2' {
-    import { mat2 } from 'gl-matrix';
+    import { mat2 } from '@kitten-team/gl-matrix';
     export = mat2;
 }
 
 declare module 'gl-matrix/src/gl-matrix/mat2d' {
-    import { mat2d } from 'gl-matrix';
+    import { mat2d } from '@kitten-team/gl-matrix';
     export = mat2d;
 }
 
 declare module 'gl-matrix/src/gl-matrix/mat3' {
-    import { mat3 } from 'gl-matrix';
+    import { mat3 } from '@kitten-team/gl-matrix';
     export = mat3;
 }
 
 declare module 'gl-matrix/src/gl-matrix/mat4' {
-    import { mat4 } from 'gl-matrix';
+    import { mat4 } from '@kitten-team/gl-matrix';
     export = mat4;
 }
 
 declare module 'gl-matrix/src/gl-matrix/quat' {
-    import { quat } from 'gl-matrix';
+    import { quat } from '@kitten-team/gl-matrix';
     export = quat;
 }
