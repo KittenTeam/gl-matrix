@@ -1,8 +1,9 @@
 {
   "name": "@kitten-team/gl-matrix",
   "description": "Javascript Matrix and Vector library for High Performance WebGL apps",
-  "version": "2.8.0",
+  "version": "2.8.1",
   "main": "dist/gl-matrix.js",
+  "types": "dist/gl-matrix.d.ts",
   "module": "src/gl-matrix.js",
   "homepage": "http://glmatrix.net",
   "license": "MIT",
