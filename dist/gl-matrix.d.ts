@@ -6,7 +6,7 @@
 //                 Wayne Langman <https://github.com/surtr-isaz>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
-declare module 'gl-matrix' {
+declare module '@kitten-team/gl-matrix' {
     // Global Utilities
     export class glMatrix {
         // Configuration constants
